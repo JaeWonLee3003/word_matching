@@ -15,9 +15,9 @@ namespace word_matching
 
         }
 
-        public class result
+        public class probResult
         {
-
+            List<string> 
         }
     }
 }
